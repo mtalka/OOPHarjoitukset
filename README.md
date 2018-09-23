@@ -1,0 +1,2 @@
+# OOPHarjoitukset
+OOP kurssin jutut
